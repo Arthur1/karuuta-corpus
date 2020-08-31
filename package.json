@@ -1,6 +1,17 @@
 {
   "name": "karuuta-corpus",
   "version": "1.0.0",
+  "type": "module",
   "main": "src/main.js",
-  "license": "MIT"
+  "scripts": {
+    "main": "node src/main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cli-progress": "^3.8.2",
+    "deepcopy": "^2.1.0",
+    "jsdom": "^16.4.0",
+    "sanitize-filename": "^1.6.3"
+  }
 }

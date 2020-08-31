@@ -1,4 +1,6 @@
 .DS_Store
+resources/html_lyrics/*.html
+resources/raw_lyrics/*.txt
 
 # Logs
 logs
