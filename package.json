@@ -4,7 +4,7 @@
   "type": "module",
   "main": "src/main.js",
   "scripts": {
-    "main": "node src/main.js"
+    "main": "node --experimental-json-modules src/main.js"
   },
   "license": "MIT",
   "dependencies": {
@@ -12,6 +12,7 @@
     "cli-progress": "^3.8.2",
     "deepcopy": "^2.1.0",
     "jsdom": "^16.4.0",
+    "mecab-gyp": "^1.0.6",
     "sanitize-filename": "^1.6.3"
   }
 }

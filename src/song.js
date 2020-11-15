@@ -4,10 +4,12 @@ import fs from 'fs/promises'
 import path from 'path'
 import sanitize from 'sanitize-filename'
 import deepcopy from 'deepcopy'
+import MecabGyp from 'mecab-gyp'
 import sleep from './sleep.js'
 
 const { JSDOM } = jsdom
 axios.defaults.baseURL = 'https://utaten.com/'
+const mecabGyp = new MecabGyp('--dicdir=/usr/local/lib/mecab/dic/ipadic/')
 
 export default class Song {
   constructor(artist, title) {
@@ -96,6 +98,14 @@ export default class Song {
    * @async
    */
   async loadRawLyric() {
-    await fs.readFile(this.rawLyricPath)
+    return await fs.readFile(this.rawLyricPath, 'utf-8')
+  }
+
+  /**
+   * HTML版歌詞をファイルから読み込む
+   * @async
+   */
+  async loadHtmlLyric() {
+    return await fs.readFile(this.htmlLyricPath, 'utf-8')
   }
 }

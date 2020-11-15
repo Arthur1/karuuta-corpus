@@ -1,0 +1,666 @@
+[
+  {
+    "id": 1,
+    "word": "君",
+    "ruby": "キミ",
+    "needsPhoneticCheck": true,
+    "point": 1
+  },
+  {
+    "id": 2,
+    "word": "あなた",
+    "ruby": "アナタ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 3,
+    "word": "人",
+    "ruby": "ヒト",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 4,
+    "word": "僕",
+    "ruby": "ボク",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 5,
+    "word": "今",
+    "ruby": "イマ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 6,
+    "word": "夢",
+    "ruby": "ユメ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 7,
+    "word": "心",
+    "ruby": "ココロ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 8,
+    "word": "愛",
+    "ruby": "アイ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 9,
+    "word": "誰",
+    "ruby": "ダレ",
+    "needsPhoneticCheck": true,
+    "point": 1
+  },
+  {
+    "id": 10,
+    "word": "私",
+    "ruby": "ワタシ",
+    "needsPhoneticCheck": true,
+    "point": 1
+  },
+  {
+    "id": 11,
+    "word": "時",
+    "ruby": "トキ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 12,
+    "word": "もう",
+    "ruby": "モウ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 13,
+    "word": "恋",
+    "ruby": "コイ",
+    "needsPhoneticCheck": false,
+    "point": 1
+  },
+  {
+    "id": 14,
+    "word": "涙",
+    "ruby": "ナミダ",
+    "needsPhoneticCheck": true,
+    "point": 2
+  },
+  {
+    "id": 15,
+    "word": "胸",
+    "ruby": "ムネ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 16,
+    "word": "風",
+    "ruby": "カゼ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 17,
+    "word": "空",
+    "ruby": "ソラ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 18,
+    "word": "いつも",
+    "ruby": "イツモ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 19,
+    "word": "きっと",
+    "ruby": "キット",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 20,
+    "word": "明日",
+    "ruby": "アシタ",
+    "needsPhoneticCheck": true,
+    "point": 2
+  },
+  {
+    "id": 21,
+    "word": "ずっと",
+    "ruby": "ズット",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 22,
+    "word": "言葉",
+    "ruby": "コトバ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 23,
+    "word": "自分",
+    "ruby": "ジブン",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 24,
+    "word": "今日",
+    "ruby": "キョウ",
+    "needsPhoneticCheck": true,
+    "point": 2
+  },
+  {
+    "id": 25,
+    "word": "好き",
+    "ruby": "スキ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 26,
+    "word": "世界",
+    "ruby": "セカイ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 27,
+    "word": "声",
+    "ruby": "コエ",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 28,
+    "word": "未来",
+    "ruby": "ミライ",
+    "needsPhoneticCheck": true,
+    "point": 2
+  },
+  {
+    "id": 29,
+    "word": "もっと",
+    "ruby": "モット",
+    "needsPhoneticCheck": false,
+    "point": 2
+  },
+  {
+    "id": 30,
+    "word": "そんな",
+    "ruby": "ソンナ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 31,
+    "word": "笑顔",
+    "ruby": "エガオ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 32,
+    "word": "強い",
+    "ruby": "ツヨイ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 33,
+    "word": "道",
+    "ruby": "ミチ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 34,
+    "word": "花",
+    "ruby": "ハナ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 35,
+    "word": "歌",
+    "ruby": "ウタ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 36,
+    "word": "気持ち",
+    "ruby": "キモチ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 37,
+    "word": "少し",
+    "ruby": "スコシ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 38,
+    "word": "遠い",
+    "ruby": "トオイ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 39,
+    "word": "瞳",
+    "ruby": "ヒトミ",
+    "needsPhoneticCheck": true,
+    "point": 3
+  },
+  {
+    "id": 40,
+    "word": "星",
+    "ruby": "ホシ",
+    "needsPhoneticCheck": true,
+    "point": 3
+  },
+  {
+    "id": 41,
+    "word": "優しい",
+    "ruby": "ヤサシイ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 42,
+    "word": "時間",
+    "ruby": "ジカン",
+    "needsPhoneticCheck": true,
+    "point": 3
+  },
+  {
+    "id": 43,
+    "word": "日々",
+    "ruby": "ヒビ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 44,
+    "word": "幸せ",
+    "ruby": "シアワセ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 45,
+    "word": "海",
+    "ruby": "ウミ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 46,
+    "word": "場所",
+    "ruby": "バショ",
+    "needsPhoneticCheck": false,
+    "point": 3
+  },
+  {
+    "id": 47,
+    "word": "同じ",
+    "ruby": "オナジ",
+    "needsPhoneticCheck": true,
+    "point": 3
+  },
+  {
+    "id": 48,
+    "word": "ひとつ",
+    "ruby": "ヒトツ",
+    "kanji": null,
+    "point": 3
+  },
+  {
+    "id": 49,
+    "word": "みんな",
+    "ruby": "ミンナ",
+    "kanji": null,
+    "point": 4
+  },
+  {
+    "id": 50,
+    "word": "そっと",
+    "ruby": "ソット",
+    "kanji": null,
+    "point": 4
+  },
+  {
+    "id": 51,
+    "word": "欲しい",
+    "ruby": "ホシイ",
+    "kanji": {
+      "character": "欲",
+      "ruby": "ほ"
+    },
+    "point": 4
+  },
+  {
+    "id": 52,
+    "word": "ひとり",
+    "ruby": "ヒトリ",
+    "kanji": null,
+    "point": 4
+  },
+  {
+    "id": 53,
+    "word": "ふたり",
+    "ruby": "フタリ",
+    "kanji": null,
+    "point": 4
+  },
+  {
+    "id": 54,
+    "word": "全て",
+    "ruby": "スベテ",
+    "kanji": {
+      "character": "全",
+      "ruby": "すべ"
+    },
+    "point": 4
+  },
+  {
+    "id": 55,
+    "word": "悲しい",
+    "ruby": "カナシイ",
+    "kanji": {
+      "character": "悲",
+      "ruby": "かな"
+    },
+    "point": 4
+  },
+  {
+    "id": 56,
+    "word": "永遠",
+    "ruby": "エイエン",
+    "point": 4
+  },
+  {
+    "id": 57,
+    "word": "季節",
+    "ruby": "キセツ",
+    "point": 4
+  },
+  {
+    "id": 58,
+    "word": "最後",
+    "ruby": "サイゴ",
+    "point": 4
+  },
+  {
+    "id": 59,
+    "word": "太陽",
+    "ruby": "タイヨウ",
+    "point": 4
+  },
+  {
+    "id": 60,
+    "word": "思い出",
+    "ruby": "オモイデ",
+    "point": 4
+  },
+  {
+    "id": 61,
+    "word": "熱い",
+    "ruby": "アツイ",
+    "point": 4
+  },
+  {
+    "id": 62,
+    "word": "お前",
+    "ruby": "オマエ",
+    "point": 4
+  },
+  {
+    "id": 63,
+    "word": "一緒",
+    "ruby": "イッショ",
+    "point": 4
+  },
+  {
+    "id": 64,
+    "word": "大切",
+    "ruby": "タイセツ",
+    "point": 4
+  },
+  {
+    "id": 65,
+    "word": "さよなら",
+    "ruby": "サヨナラ",
+    "point": 4
+  },
+  {
+    "id": 66,
+    "word": "人生",
+    "ruby": "ジンセイ",
+    "point": 4
+  },
+  {
+    "id": 67,
+    "word": "ちょっと",
+    "ruby": "チョット",
+    "point": 4
+  },
+  {
+    "id": 68,
+    "word": "甘い",
+    "ruby": "アマイ",
+    "point": 4
+  },
+  {
+    "id": 69,
+    "word": "旅",
+    "ruby": "タビ",
+    "point": 4
+  },
+  {
+    "id": 70,
+    "word": "まるで",
+    "ruby": "マルデ",
+    "point": 4
+  },
+  {
+    "id": 71,
+    "word": "長い",
+    "ruby": "ナガイ",
+    "point": 4
+  },
+  {
+    "id": 72,
+    "word": "新しい",
+    "ruby": "アタラシイ",
+    "point": 5
+  },
+  {
+    "id": 73,
+    "word": "背中",
+    "ruby": "セナカ",
+    "point": 5
+  },
+  {
+    "id": 74,
+    "word": "時代",
+    "ruby": "ジダイ",
+    "point": 5
+  },
+  {
+    "id": 75,
+    "word": "昨日",
+    "ruby": "キノウ",
+    "point": 5
+  },
+  {
+    "id": 76,
+    "word": "深い",
+    "ruby": "フカイ",
+    "point": 5
+  },
+  {
+    "id": 77,
+    "word": "自由",
+    "ruby": "ジユウ",
+    "point": 5
+  },
+  {
+    "id": 78,
+    "word": "なぜ",
+    "ruby": "ナゼ",
+    "point": 5
+  },
+  {
+    "id": 79,
+    "word": "毎日",
+    "ruby": "マイニチ",
+    "point": 5
+  },
+  {
+    "id": 80,
+    "word": "約束",
+    "ruby": "ヤクソク",
+    "point": 5
+  },
+  {
+    "id": 81,
+    "word": "孤独",
+    "ruby": "コドク",
+    "point": 5
+  },
+  {
+    "id": 82,
+    "word": "ありがとう",
+    "ruby": "アリガトウ",
+    "point": 5
+  },
+  {
+    "id": 83,
+    "word": "部屋",
+    "ruby": "ヘヤ",
+    "point": 5
+  },
+  {
+    "id": 84,
+    "word": "雲",
+    "ruby": "クモ",
+    "point": 5
+  },
+  {
+    "id": 85,
+    "word": "大人",
+    "ruby": "オトナ",
+    "point": 5
+  },
+  {
+    "id": 86,
+    "word": "瞬間",
+    "ruby": "シュンカン",
+    "point": 5
+  },
+  {
+    "id": 87,
+    "word": "答え",
+    "ruby": "コタエ",
+    "point": 5
+  },
+  {
+    "id": 88,
+    "word": "運命",
+    "ruby": "ウンメイ",
+    "point": 5
+  },
+  {
+    "id": 89,
+    "word": "勇気",
+    "ruby": "ユウキ",
+    "point": 5
+  },
+  {
+    "id": 90,
+    "word": "キス",
+    "ruby": "キス",
+    "point": 5
+  },
+  {
+    "id": 91,
+    "word": "切ない",
+    "ruby": "セツナイ",
+    "point": 5
+  },
+  {
+    "id": 92,
+    "word": "本当",
+    "ruby": "ホントウ",
+    "point": 5
+  },
+  {
+    "id": 93,
+    "word": "さあ",
+    "ruby": "サア",
+    "point": 5
+  },
+  {
+    "id": 94,
+    "word": "冷たい",
+    "ruby": "ツメタイ",
+    "point": 5
+  },
+  {
+    "id": 95,
+    "word": "過去",
+    "ruby": "カコ",
+    "point": 5
+  },
+  {
+    "id": 96,
+    "word": "向こう",
+    "ruby": "ムコウ",
+    "point": 5
+  },
+  {
+    "id": 97,
+    "word": "腕",
+    "ruby": "ウデ",
+    "point": 5
+  },
+  {
+    "id": 98,
+    "word": "寂しい",
+    "ruby": "サビシイ",
+    "point": 5
+  },
+  {
+    "id": 99,
+    "word": "願い",
+    "ruby": "ネガイ",
+    "point": 5
+  },
+  {
+    "id": 100,
+    "word": "希望",
+    "ruby": "キボウ",
+    "point": 5
+  }
+]

@@ -1,5 +1,6 @@
 import cliProgress from 'cli-progress'
 import Song from './song.js'
+import LyricParser from './lyric_parser.js'
 
 main().then(() => {}).catch(err => {
   console.error(err)
@@ -22,7 +23,7 @@ async function main() {
   ]
   const songsNumber = songs.length
   const progressBar = new cliProgress.SingleBar({
-    format: 'Download Lyrics |' + '{bar}' + '| {percentage}% || {value}/{total} || {song}',
+    format: 'Download Lyrics |{bar}| {percentage}% || {value}/{total} || {song}',
     barCompleteChar: '\u2588',
     barIncompleteChar: '\u2591',
     hideCursor: true
@@ -43,4 +44,10 @@ async function main() {
   }
 
   progressBar.stop()
+
+  for (let i = 0; i < songsNumber; i++) {
+  // const currentSong = songs[0]
+    const parser = new LyricParser(songs[i].artist, songs[i].title)
+    await parser.searchKaruutaTerm()
+  }
 }
